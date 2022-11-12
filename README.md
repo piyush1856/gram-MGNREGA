@@ -1,6 +1,6 @@
 # cheerful-notebook-6741
 <p align="center">
-  <img width="360" height="400" src="https://raw.githubusercontent.com/piyush1856/cheerful-notebook-6741/main/assets/manrega%20(2).jpg?token=GHSAT0AAAAAABUZXMR3G4UPFYU6OJ2DS3DQY3P5RWQ">
+  <img width="360" height="400" src="https://github.com/piyush1856/cheerful-notebook-6741/blob/main/assets/manrega%20(2).jpg?raw=true">
 </p>
 
 
@@ -47,12 +47,12 @@
 # Overview of My work 
 ## **ER Diagram**
 <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/piyush1856/cheerful-notebook-6741/main/assets/Database%20ER%20diagram%20MGNREGA.jpeg?token=GHSAT0AAAAAABUZXMR3NHLOGK2PK7D2CQU2Y3P6ICQ">
+  <img width="800" height="500" src="https://github.com/piyush1856/cheerful-notebook-6741/blob/main/assets/Database%20ER%20diagram%20MGNREGA.jpeg?raw=true">
 </p>
 
 ## **Flow Chart**
 <p align="center">
-  <img width="800" height="700" src="https://raw.githubusercontent.com/piyush1856/cheerful-notebook-6741/main/assets/flow2.jpeg?token=GHSAT0AAAAAABUZXMR3BDPMSAJYMQWOSFHOY3P6KFA">
+  <img width="800" height="700" src="https://github.com/piyush1856/cheerful-notebook-6741/blob/main/assets/flow2.jpeg?raw=true">
 </p>
 
 # Some Sample Application Execution
