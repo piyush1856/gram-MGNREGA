@@ -86,7 +86,7 @@
 > Valuable feedback will be appreciated.
 > You can reach out to me via below medium.
 
-- [Email](piyushtyagi.1856@gmail.com)
+
 - [Linkedin](https://www.linkedin.com/in/piyush-tyagi-308930246/)
 # Contributor
 #### Piyush Tyagi
