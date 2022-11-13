@@ -19,8 +19,7 @@
 >It is Console based Project.
 >
 >Built application during the construct week at [Masai School](https://masaischool.com/). Completed the project within four days.
-
-# 👉 [Click here]("https://drive.google.com/file/d/1w96o-I06KS7Uip9GZLcBJEr7UQYbl6cs/view?usp=sharing") to go through detail explanation of this application 
+# 👉 [Click here](https://drive.google.com/file/d/1w96o-I06KS7Uip9GZLcBJEr7UQYbl6cs/view?usp=sharing) to go through detail explanation of this application.
 
 # Features 
 
